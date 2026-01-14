@@ -1,4 +1,4 @@
-<h2 align="center"><samp><strong>Hi there 👋, I am Ilya</strong></samp></h2>
+<h2 align="center"><samp><strong>Hi there 👋, I am Ilya Karsakov</strong></samp></h2>
 
 <p align="center">
   <samp>
