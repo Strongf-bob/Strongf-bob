@@ -1,8 +1,8 @@
-<h2 align="center"><samp><strong>Hi there 👋, I am Ilya Karsakov</strong></samp></h2>
+<h2 align="center"><samp><strong>I am Ilya Karsakov</strong></samp></h2>
 
 <p align="center">
   <samp>
-    16 y.o. student • Experimental IT specialist program @ Sirius University of Science and Technology • Backend (Go & Python)
+    16 y.o. AI Engineer • Backend Developer • Experimental IT specialist program @ Sirius University
   </samp>
 </p>
 
@@ -14,85 +14,120 @@
 
 ---
 
-## 🚀 About Me
+# About Me
 
-- I’m a **16 y.o. student** of the **experimental IT specialist program** at **Sirius University**.
-- **Backend developer** focused on **Go** and **Python**.
-- Interested in **high-load systems**, architecture, performance and observability.
-- Love **complex systems**, async processing and infra.
-- Comfortable with **Docker** and **Podman**.
+* 16 y.o. student of the **experimental IT specialist program** at **Sirius University of Science and Technology**
+* AI Engineer focused on **LLM applications**, **AI infrastructure** and **backend systems**
+* Interested in:
 
-
----
-
-## 🧱 Backend Stack
-
-### Main Languages
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-> **Go** — services, concurrency, performance  
-> **Python** — APIs, async backends, tooling, contests
+  * AI agents & RAG systems
+  * distributed and high-load architectures
+  * observability & async pipelines
+  * inference and developer tooling
+* Love building scalable systems and experimenting with modern AI workflows
+* Comfortable with Linux, containers and infra tooling
 
 ---
 
-### Supporting Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# Tech Stack
 
-> Used for dashboards, admin panels, small frontends and tooling UIs
+## Main Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### Frameworks & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-1F6FEB?style=for-the-badge&logo=grpc&logoColor=white)
-![REST](https://img.shields.io/badge/REST-111111?style=for-the-badge&logo=swagger&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> **Python** — AI systems, LLM pipelines, APIs, automation
+> **Go** — high-performance backends, concurrency and infra
+> **Kotlin** — JVM backend development and tooling
+> **TypeScript** — backend services, dashboards and tooling UIs
 
 ---
 
-### Databases & Storage
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+## AI & ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge\&logo=huggingface\&logoColor=000)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+
+> Building AI agents, RAG systems, LLM integrations and inference pipelines
 
 ---
 
-### Messaging & Async
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
+## Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge\&logo=go\&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-1F6FEB?style=for-the-badge\&logo=grpc\&logoColor=white)
+![REST](https://img.shields.io/badge/REST-111111?style=for-the-badge\&logo=swagger\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+
+> Scalable APIs, microservices, async processing and backend architectures
 
 ---
 
-### Observability
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
+## Databases & Storage
 
-
----
-
-### DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge\&logo=amazons3\&logoColor=white)
 
 ---
 
-### 🤖 AI-assisted Development
+## Messaging & Async Systems
 
-I actively use AI tools as **engineering assistants** for:
-- prototyping and exploring solutions
-- code review and refactoring
-- understanding complex systems and APIs
-- documentation and design iteration
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge\&logo=natsdotio\&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+---
 
-> AI is a tool, not a crutch.
+## Observability & Infra
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge\&logo=opentelemetry\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge\&logo=grafana\&logoColor=orange)
+
+> Metrics, tracing, monitoring and debugging distributed systems
+
+---
+
+## DevOps & Tooling
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=fff)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge\&logo=podman\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+
+---
+
+# Interests
+
+* AI Agents
+* LLM Applications
+* RAG & Retrieval Systems
+* High-load Architectures
+* Distributed Systems
+* Async Processing
+* AI Infrastructure
+* Observability
+
+---
+
+# AI-assisted Engineering
+
+I actively use AI tools as engineering accelerators for:
+
+* prototyping and architecture exploration
+* building AI workflows and agent systems
+* code review and refactoring
+* debugging and research
+* documentation and rapid iteration
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+
+> AI is leverage, not replacement.
